@@ -4,6 +4,7 @@ title: "[New word]: "
 labels: []
 projects: []
 assignees:
+  - octocat
 body:
   - type: markdown
     attributes:
