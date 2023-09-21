@@ -1,5 +1,5 @@
 ---
-name: Add Rashi word
+name: Add Rashi words
 about: Use this template to add Rashi word (in meruba)
 title: "El biervo"
 labels: new-word
