@@ -16,7 +16,7 @@ body:
       label: Ladino
       description: Una fraza en ladino.
       placeholder: Tell us what you see!
-      value: "Hi"
+      value: ""
     validations:
       required: true
   - type: dropdown
