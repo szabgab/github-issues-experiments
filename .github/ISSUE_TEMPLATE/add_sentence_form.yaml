@@ -1,6 +1,5 @@
 name: Add Sentence
 description: Add a sample sentence in Ladino and in at least on other language.
-
 title: "Fraza mueva"
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
@@ -17,7 +16,7 @@ body:
       label: Ladino
       description: Una fraza en ladino.
       placeholder: Tell us what you see!
-      value: ""
+      value: "Hi"
     validations:
       required: true
   - type: dropdown
@@ -41,4 +40,5 @@ body:
     attributes:
       label: Teksto en la otra lingua
       description: Por favor eskrive aki la traduksion de la fraza en la otra lingua.
+      render: shell
 
