@@ -1,7 +1,7 @@
 ---
-name: Tracking issue
+name: Add Rashi as YAML
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
+title: "Ladino word in latin and hebrew letter (for rashi)"
 labels: tracking issue, needs triage
 assignees: octocat
 ---
