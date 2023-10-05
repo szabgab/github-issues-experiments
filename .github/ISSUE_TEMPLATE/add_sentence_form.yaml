@@ -19,8 +19,8 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Otra lingua
+      description: A ke lingua vas a tradusir?
       options:
         - inglez
         - ebreo
@@ -29,7 +29,6 @@ body:
         - turko
         - kasteyano
       multiple: false
-      default: 0
     validations:
       required: true
   - type: textarea
