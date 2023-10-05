@@ -1,7 +1,7 @@
 name: Add Sentence
 description: Add a sample sentence in Ladino and in at least on other language.
 title: "Fraza mueva"
-labels: ["bug", "triage"]
+labels: ["example"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
