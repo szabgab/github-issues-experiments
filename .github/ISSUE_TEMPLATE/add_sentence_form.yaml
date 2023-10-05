@@ -1,8 +1,6 @@
 name: Add Sentence
-description: |
-  Add a sample sentence in Ladino and in at least on other language.
+description: Add a sample sentence in Ladino and in at least on other language.
 
-  Alhad es el primero dia de las semana en Israel.
 title: "Fraza mueva"
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
